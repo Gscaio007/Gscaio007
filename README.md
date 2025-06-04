@@ -1,7 +1,7 @@
 ## Olá, sou Caio Guilherme
 <a>
 Sou Web Developer. 
-Estou no início da minha carreira e sou movido pela 
+Desde o início da minha carreira sou movido pela 
 curiosidade e pela vontade de aprender. Comecei a explorar a programação utilizando linguagens como o PHP com Laravel, React, MySQL e Python, e consegui uma base sólida em desenvolvimento de sistemas. Esse conhecimento me permitiu construir aplicações web e aplicativos profissionalmente, no entanto reconheço a importância de aprimorar meus conhecimentos para me manter atualizado.
 </a>
 <br><br>
