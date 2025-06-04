@@ -3,11 +3,12 @@
   Desde o início da minha jornada profissional, sempre fui movido pela 
 curiosidade e pela vontade de aprender. Comecei a explorar o mundo da programação 
 com PHP, Laravel, MySQL e JS, adquirindo uma base sólida em desenvolvimento web 
-full-stack.
-  Esse conhecimento me permitiu construir soluções com interfaces 
+full-stack.</a>
+<a> Esse conhecimento me permitiu construir soluções com interfaces 
 dinâmicas e banco de dados.Buscando expandir meus horizontes, reconheço a 
 importância de dominar diferentes linguagens para me tornar um profissional mais
-versátil.
+versátil.</a>
+<a>
   Além disso, penso em criar um curso de programação em PHP no futuro, para 
 compartilhar conhecimento e contribuir para a formação de novos profissionais 
 também. Minha trajetória é marcada pela busca constante por crescimento e evolução. 
