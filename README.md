@@ -6,7 +6,7 @@ curiosidade e pela vontade de aprender. Comecei a explorar a programação utili
 </a>
 <br><br>
 
-[![Gscaio007's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gscaio007&hide_rank=true&theme=gruvbox)](https://github.com/Gscaio007/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gscaio007&hide_progress=true&theme=gruvbox)
 
