@@ -18,7 +18,6 @@ paixão pela tecnologia e meu compromisso com a excelência.
 <br><br>
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gscaio007&hide_progress=true&theme=gruvbox)
 
 
