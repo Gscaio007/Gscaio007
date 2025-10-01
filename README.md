@@ -1,6 +1,6 @@
 ## Olá, sou Caio Guilherme
 <a>
-  Comecei a explorar o mundo da programação com PHP, Laravel, MySQL e JS, 
+  Comecei a explorar o mundo da programação com PHP, Laravel , Docker, Node.js , SQL 
 adquirindo uma base sólida em desenvolvimento web full-stack.</a>
 <a> Esse conhecimento me permitiu construir soluções com interfaces 
 dinâmicas e banco de dados. Buscando expandir meus horizontes, reconheço a 
