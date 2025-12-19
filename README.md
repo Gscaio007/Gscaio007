@@ -2,14 +2,14 @@
 <a>
   Sou desenvolvedor de sistemas formado em Ciência da Computação. Tenho 
 experiência profissional em PHP Laravel, React e SQL.Além disso possuo projetos
-com outras linguagens como Python, Go e Nest.js </a>
+com outras linguagens como Python, Go e Nest.js </a><br>
 <a>
   Comecei a explorar o mundo da programação, adquirindo uma base sólida em
 desenvolvimento web full-stack.</a>
 <a> Esse conhecimento me permitiu construir soluções com interfaces 
 dinâmicas e banco de dados. Buscando expandir meus horizontes, reconheço a 
 importância de dominar diferentes linguagens para me tornar um profissional mais
-versátil.</a>
+versátil.</a><br>
 <a>
   Além disso, penso em criar um curso de programação em PHP no futuro, para 
 compartilhar conhecimento e contribuir para a formação de novos profissionais 
