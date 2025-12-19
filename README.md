@@ -20,7 +20,7 @@ paixão pela tecnologia e meu compromisso com a excelência.
 <br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gscaio007&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=hack&hide_langs_percentage=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gscaio007&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=hack&hide_progress=true)
 
 
 
