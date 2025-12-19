@@ -1,7 +1,7 @@
 ## Olá, sou Caio Guilherme
 <a>
   Sou desenvolvedor de sistemas formado em Ciência da Computação. Tenho 
-experiência profissional em PHP Laravel, React e SQL.Além disso possuo projetos
+experiência profissional em PHP Laravel, React e SQL. Além disso possuo projetos
 com outras linguagens como Python, Go e Nest.js </a><br>
 <a>
   Comecei a explorar o mundo da programação, adquirindo uma base sólida em
