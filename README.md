@@ -1,7 +1,11 @@
 ## Olá, sou Caio Guilherme
 <a>
-  Comecei a explorar o mundo da programação com PHP, Laravel , Docker, Node.js , SQL 
-adquirindo uma base sólida em desenvolvimento web full-stack.</a>
+  Sou desenvolvedor de sistemas formado em Ciência da Computação. Tenho 
+experiência profissional em PHP Laravel, React e SQL.Além disso possuo projetos
+com outras linguagens como Python, Go e Nest.js </a>
+<a>
+  Comecei a explorar o mundo da programação, adquirindo uma base sólida em
+desenvolvimento web full-stack.</a>
 <a> Esse conhecimento me permitiu construir soluções com interfaces 
 dinâmicas e banco de dados. Buscando expandir meus horizontes, reconheço a 
 importância de dominar diferentes linguagens para me tornar um profissional mais
@@ -33,8 +37,8 @@ paixão pela tecnologia e meu compromisso com a excelência.
      src="https://www.svgrepo.com/show/354119/nodejs-icon.svg">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Caio-Java" height="30" width="40"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <!--img align="center" alt="Caio-Java" height="30" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"-->
   <img align="center" alt="Caio-Python" height="30" width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
@@ -44,17 +48,3 @@ paixão pela tecnologia e meu compromisso com a excelência.
   <a href="https://www.linkedin.com/in/caio-guilherme-csm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-<!--
-**Gscaio007/Gscaio007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
